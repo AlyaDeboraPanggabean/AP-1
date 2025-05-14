@@ -4,7 +4,7 @@ using namespace std;
 int main () {
     int nilai ;
 
-    system("CLS");
+    system("CLS"); // untuk membersihkan layar
 
     cout << "Masukkan nilai : ";
     cin >> nilai;

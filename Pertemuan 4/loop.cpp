@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    // Goto Label
+    // Goto Label , untuk melompat ke bagian program yg lain
     // Hello World, Fasilkom-TI, ILmu Komputer, IKLC
     // -> Hello World, IKLC, Ilmu Komputer, Fasilkom-TI
 
